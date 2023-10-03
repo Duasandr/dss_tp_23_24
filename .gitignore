@@ -25,3 +25,6 @@ replay_pid*
 
 # macOs hidden files
 .DS_Store
+
+# visual paradigm backup files
+*.bak_*
